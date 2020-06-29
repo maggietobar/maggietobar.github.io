@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maggie Tobar / WIP"
+title                    : "WIP"
 title_separator          : "-"
 name                     : &name "Maggie Tobar"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "Nueva Foto CV.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Santiago de Chile"
-  employer         :
+  employer         : "Data Scientist @ Mercado Libre"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/maggietobar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/magdalena-tobar/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
