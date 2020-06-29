@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Maggie Tobar"
   avatar           : "Nueva Foto CV.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scientist @ Mercado Libre"
   location         : "Santiago de Chile"
-  employer         : "Data Scientist @ Mercado Libre"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
