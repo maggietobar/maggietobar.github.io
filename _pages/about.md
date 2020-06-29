@@ -8,7 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-
-WIP.
+WIP
